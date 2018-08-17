@@ -1,6 +1,6 @@
 # Features of C2engine
 - 数据驱动。
-- 模块边界清晰。
+- 模块边界清晰。层次清晰。
 - 用户接口精简。
 - occlusion culling。
 - voxel平滑。
