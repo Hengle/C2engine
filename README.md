@@ -6,7 +6,7 @@
 - occlusion culling。
 - voxel平滑。
 - terrain。
-- 材质模板化。
+- 材质模板化。二次元/物理海浪。
 - Director with NLP ready。
 - 坐标空间扭曲后处理。
 - 支持webassembly。
