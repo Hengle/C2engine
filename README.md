@@ -2,10 +2,14 @@
 - 数据驱动。
 - 模块边界清晰。
 - 用户接口精简。
-- PBR。
-- 支持webassembly。
 - streaming。
 - occlusion culling。
-- voxel。
+- voxel平滑。
+- terrain。
 - 材质模板化。
 - Director with NLP ready。
+- 坐标空间扭曲后处理。
+- 支持webassembly。
+- webgl/webgpu/vukan/directx12图形API无关。
+- 三角图元优化。
+- DR/MRT/PBR/GI/OA。
