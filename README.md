@@ -2,6 +2,7 @@
 - 数据驱动。
 - 模块边界清晰。层次清晰。
 - 用户接口精简。
+- 尽可能的stateless。
 - occlusion culling。
 - voxel平滑。
 - terrain。
