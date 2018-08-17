@@ -2,7 +2,6 @@
 - 数据驱动。
 - 模块边界清晰。
 - 用户接口精简。
-- streaming。
 - occlusion culling。
 - voxel平滑。
 - terrain。
@@ -13,3 +12,4 @@
 - webgl/webgpu/vukan/directx12图形API无关。
 - 三角图元优化。
 - DR/MRT/PBR/GI/OA。
+- Click-to-Play/streaming。支持unity3d/cocos/ue等任意产品。
