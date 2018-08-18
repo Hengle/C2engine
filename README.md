@@ -1,4 +1,4 @@
-# Features of C2engine
+# Features of c²engine
 - 数据驱动，减少逻辑层面荷藕，也可以更方便多线程/进程/多物理机联合的体系。
 - 模块边界清晰。层次清晰。
 - 用户接口精简。
